@@ -1,7 +1,7 @@
 {
 "logo": "http://aiwy.luolitu.asia/wp-content/uploads/2025/01/二维码.jpg", 
 "wallpaper": "",
-"spider": "http://aiwy.luolitu.asia/aiwyjk/wy.zip",
+"spider": "https://gitee.com/aiwanyue/aiwy/raw/master/wy.zip",
 	"sites": [
     {
       "key": "公告1",
