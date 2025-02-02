@@ -1,21 +1,38 @@
 {
-  
-  
 "logo": "http://aiwy.luolitu.asia/wp-content/uploads/2025/01/二维码.jpg", 
-"warningText":"💕一个分享者接口，永久完全免费，切勿付费购买💕",
- "sites": [
+"wallpaper": "",
+"spider": "http://aiwy.luolitu.asia/aiwyjk/wy.zip",
+
+"sites": [
+   {
+            "key": "公告1",
+            "name": "关注公众号“AI婉约”以防接口失效",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext":{
+	         "分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
+			 "分类":"电影&电视剧&动漫&综艺",
+			 "分类值": "1&2&3&4"}
+    },
     {
-	  "key":"圆涂影视",
-	  "name":"⭕️圆涂影视",
-	  "type":3,
-	  "api":"csp_AppYs",
-	  "searchable":1,
-	  "quickSearch":1,
-	  "filterable":1,
-	  "ext":"http://m51.gotto.top/api.php/v1.vod"},
-	{
+            "key": "公告2",
+            "name": "请勿相信视频中的广告，避免上当受骗",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext":{
+	         "分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
+			 "分类":"电影&电视剧&动漫&综艺",
+			 "分类值": "1&2&3&4"}
+    },
+    {
       "key":"csp_河马",
-      "name":"💖分享河马",
+      "name":"💎河马",
       "type":3,
       "api":"csp_XBPQ",
       "searchable":1,
@@ -25,9 +42,19 @@
 	         "分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
 			 "分类":"电影&电视剧&动漫&综艺",
 			 "分类值": "1&2&3&4"}},
+    {
+	  "key":"圆涂影视",
+	  "name":"💎圆涂",
+	  "type":3,
+	  "api":"csp_AppYs",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"http://m51.gotto.top/api.php/v1.vod"},
+	
 	{
-	  "key":"🚨可可影视",
-	  "name":"💖分享可可",
+	  "key":"可可影视",
+	  "name":"💎可可",
 	  "type":3,
 	  "api":"csp_XYQHiker",
 	  "searchable":1,
@@ -36,7 +63,7 @@
 	  "ext":"https://www.xn--rgv465a.top/box/json/可可影视.json"},
 	{
 	  "key": "T4-安博",
-	  "name": "💖分享安博",
+	  "name": "💎安博",
 	  "type": 4,
 	  "api": "https://tang.hz.cz/power/ub18?token=647c28ca",
 	  "searchable": 1,
@@ -45,7 +72,7 @@
 	  "changeable": 0},
 	{
 	  "key":"爱奇艺",
-	  "name":"💖分享奇艺",
+	  "name":"💎奇艺",
 	  "type":3,
 	  "api":"csp_IQIYI",
 	  "quickSearch":1,
@@ -53,7 +80,7 @@
 	  "filterable":1},
 	{
 	  "key":"99影视",
-	  "name":"💖分享对酒",
+	  "name":"💎对酒",
 	  "type":3,
 	  "api":"csp_XBPQ",
 	  "ext":{
@@ -62,7 +89,7 @@
 			 "分类":"短剧$25#电影$1#连续剧$2#动漫$4#综艺$3"}},
 	{
       "key": "fxzyz",
-      "name": "💖分享驿站",
+      "name": "💎驿站",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -71,7 +98,7 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/分享YZ.json"},
 	{ 
 	  "key": "o站影视",
-	  "name": "💖分享O站", 
+	  "name": "💎️O站", 
 	  "type":3,
 	  "api":"csp_XBPQ",
 	  "ext": {
@@ -80,7 +107,7 @@
 			  "分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
 	{
       "key": "fxzczzy",
-      "name": "💖分享厂长*",
+      "name": "💎厂长*",
       "type": 3,
       "api": "csp_NewCz",
       "searchable": 1,
@@ -90,7 +117,7 @@
       "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar"},
     {
       "key": "fxzjpyy",
-      "name": "💖分享金牌*",
+      "name": "💎金牌*",
       "type": 3,
       "api": "csp_Jpys",
       "searchable": 1,
@@ -98,8 +125,8 @@
       "playerType":1,
       "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar"},
     {
-	   "key":"fxz欢视",
-	   "name":"💖分享欢视",
+	   "key":"fx欢视",
+	   "name":"💎欢视",
 	   "type":3,
 	   "api":"csp_AppTT",
 	   "playerType":2,
@@ -110,7 +137,7 @@
 	   "ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
 	{
        "key": "fxzgy",
-	   "name": "💖分享腾云",
+	   "name": "💎腾云",
        "type": 3,
        "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
        "searchable": 1,
@@ -121,7 +148,7 @@
        "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"},
 	{
 	   "key":"fxz热播",
-	   "name":"💖分享热播",
+	   "name":"💎热播",
 	   "type":3,
 	   "api":"csp_AppTT",
 	   "playerType":2,
@@ -132,7 +159,7 @@
 	   "ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 	 {
        "key": "csp_XYQHikerNm",
-       "name": "💖分享糯米",
+       "name": "💎糯米",
        "type": 3,
        "api": "csp_XYQHiker",
        "searchable": 1,
@@ -141,7 +168,7 @@
        "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/XBPQ/nmys.json","jar":""},
 	 {
 	   "key":"壹伴",
-	   "name":"💖分享壹伴",
+	   "name":"💎壹伴",
 	   "type":3,
 	   "api":"csp_Xdai",
 	   "playerType":2,
@@ -149,7 +176,7 @@
 	   "jar":"http://tv.laohu.cool/laohujar.jar"},
 	 {
        "key": "洽洽影视",
-	   "name": "💖分享洽洽",
+	   "name": "💎洽洽",
        "type": 3,
        "api": "csp_AppGZ",
        "searchable": 1,
@@ -158,7 +185,7 @@
        "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
 	 {
 	   "key": "csp_猎手",
-	   "name": "💖分享猎手",
+	   "name": "💎猎手",
 	   "type": 3,
 	   "searchable": 1,
 	   "changeable": 1,
@@ -168,7 +195,7 @@
 	   "filterable": 1},
 	 {
        "key": "熊猫",
-       "name": "💖分享猫猫",
+       "name": "💎猫猫",
        "type": 3,
        "api": "csp_Xdai",
        "playerType": 2,
@@ -176,7 +203,7 @@
        "jar": "http://tv.laohu.cool/laohujar.jar"},
 	 {
 	   "key":"csp_fxzhl",
-	   "name":"💖分享河狸",
+	   "name":"💎河狸",
 	   "type":3,
 	   "api":"csp_AppYsV2",
 	   "searchable":1,
@@ -185,7 +212,7 @@
 	   "ext":"https://www.heli888.cc/api.php/app/"},
 	 {
 	   "key":"csp_樱之空",
-	   "name":"💖分享樱空",
+	   "name":"💎樱之空",
 	   "type":3,
 	   "api":"csp_XBPQ",
        "jar": "",
@@ -201,7 +228,7 @@
 			  "分类":"电影$84#大陆剧$81#港台剧$82#桜剧$32#桜漫$1#日漫$46#国漫$47#美漫$85#综艺$91"}},
 	 {
        "key": "唐人",
-       "name": "💖分享唐人",
+       "name": "💎唐人",
        "type": 3,
        "api": "csp_XBPQ",
        "ext": {
@@ -209,7 +236,7 @@
        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#体育$59#短剧$53"}},
 	 {
 	   "key": "小鸭影音",
-	   "name": "💖分享小鸭",
+	   "name": "💎小鸭",
 	   "type": 3,
 	   "api": "csp_XBPQ",
 	   "ext": {"简介":"分享者剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>",
@@ -217,7 +244,7 @@
 	   "分类": "电视剧$2#电影$1#动漫$30#综艺$29"}},
 	 {
 	   "key":"卧龙资源",
-	   "name":"💖分享卧龙",
+	   "name":"💎卧龙",
 	   "type":1,
 	   "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
 	   "searchable":1,
@@ -254,7 +281,7 @@
 				"欧美综艺"]},
 	   {
          "key": "csp_LiteApple",
-         "name": "💖分享|BTT",
+         "name": "💎️BTT",
          "type": 3,
          "playerType": "2",
          "api": "csp_XBPQ",
@@ -269,14 +296,14 @@
 				"分类url":"http://www.btpxgl.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;s"}},
 	   {
 	      "key":"csp_lwdy",
-		  "name":"🕵️‍♀️老王电影",
+		  "name":"💎老王",
 		  "type":3,
 		  "api":"csp_XBPQ",
 		  "ext":{"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 		  "分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}},
        {
 	      "key":"极速",
-		  "name":"️✈️极速采集",
+		  "name":"💎️极速",
 		  "type":1,
 		  "api":"https://jszyapi.com/api.php/provide/vod/at/json",
 		  "searchable":1,
@@ -285,7 +312,7 @@
 		  "categories":["内地剧","欧美剧","日剧","韩剧","台湾剧","香港剧","马泰剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","记录片","动画片","日本动漫","欧美动漫","中国动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"]},
 		{
             "key": "魔都资源",
-            "name": "💖分享魔都",
+            "name": "💎魔都",
             "type": 1,
             "api": "https://moduzy2.com/api.php/provide/vod/",
             "searchable": 1,
@@ -321,7 +348,7 @@
 	      
 	     {
 		     "key":"四圈资源",
-			 "name":"⭕️四个圈圈",
+			 "name":"💎四个圈",
 			 "type":1,
 			 "api":"https://pg.fenwe078.cf/api.php/provide/vod/",
 			 "searchable":1,
@@ -330,14 +357,14 @@
 			 "categories":[]},	
          {
 		     "key":"虎牙资源",
-			 "name":"🐯虎口拔牙",
+			 "name":"💎虎牙",
 			 "type":1,
 			 "api":"https://www.huyaapi.com/api.php/provide/vod/",
 			 "playUrl":"",
 			 "searchable":1,
 			 "quickSearch":1,
 			 "categories": [
-               "内地剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","古装片","犯罪片","惊悚片","冒险片","悬疑片","其他剧","邵氏电影"]},
+               "内地剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","古装片","犯罪片","惊悚片","冒险片","悬疑片","其他剧","邵氏电影"]}
   ], 
 "lives": [{
              "group": "自定义",
