@@ -1,13 +1,13 @@
 {
-"标志": "http://aiwy.luolitu.Asia/WP-content/uploads/2025/01/二维码.jpg", 
-“壁纸”: "",
-“蜘蛛”: "https://gitee.com/aiwanyue/aiwy/raw/master/wy.zip",
+"标志":"https://share.feijipan.com/s/BOFBYG7v", 
+"壁纸":"",
+"蜘蛛":"https://gitee.com/aiwanyue/aiwy/raw/master/wy.zip",
 	"网站": [
     {
       "钥匙": "公告1",
-      "名称": "关注公众号“艾婉约"以防接口失效",
+      "名称": "关注公众号"艾婉约"以防接口失效",
       "类型": 1,
-      " api ": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=list",
+      " api ": "https://www.jkunzyapi.com/api.php/provide/vod/？ac =列表",
       " playUrl ": "https://www.jkunzyjx.com/？url= ",
       "可搜索": 0,
       "快速搜索": 0,
@@ -20,7 +20,7 @@
       "钥匙": "公告2",
       "名称": "请勿相信视频中的任何广告,建议使用好的影视无广告观看",
       "类型": 1,
-      " api ": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=list",
+      " api ": "https://www.jkunzyapi.com/api.php/provide/vod/？ac =列表",
       " playUrl ": "https://www.jkunzyjx.com/？url= ",
       "可搜索": 0,
       "快速搜索": 0,
@@ -30,7 +30,7 @@
       ]
     }, 
     {
-      "钥匙": “JKUN”,
+      "钥匙":“JKUN”，
       "名称": "🔞JKUN ",
       "类型": 1,
       " api ": "https://www.jkunzyapi.com/api.php/provide/vod/？ac =列表",
@@ -46,11 +46,11 @@
 		"自拍偷拍",
         "中文字幕",
 		"探花系列",
-		“虚拟现实视角",
-		“赃物”,
+"虚拟现实视角",
+"赃物",
         "日本无码",
-        “AV解说",
-        “Cosplay”,
+“AV解说",
+“Cosplay”，
         "三级伦理",
         "素人搭讪",
         "日本有码"
@@ -60,7 +60,7 @@
       "钥匙": "萝莉兔",
       "名称": "🔞萝莉兔",
       "类型": 1,
-      " api ": " https://lbapi 9 . com/API . PHP/provide/VOD/",
+      " api ": " https://lbapi 9。com/API。PHP/provide/VOD/",
       " playUrl ": "https://www.jkunzyjx.com/？url= ",
       "可搜索": 1,
       "快速搜索": 1,
