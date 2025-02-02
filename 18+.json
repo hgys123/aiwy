@@ -7,10 +7,10 @@
       "钥匙": "公告1",
       "名称": "关注公众号“艾婉约"以防接口失效",
       "类型": 1,
-      " api ": "",
+      " api ": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=list",
       " playUrl ": "https://www.jkunzyjx.com/？url= ",
-      "可搜索": 1,
-      "快速搜索": 1,
+      "可搜索": 0,
+      "快速搜索": 0,
       "可过滤": 0,
       "类别": [
       
@@ -20,10 +20,10 @@
       "钥匙": "公告2",
       "名称": "请勿相信视频中的任何广告,建议使用好的影视无广告观看",
       "类型": 1,
-      " api ": "",
+      " api ": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=list",
       " playUrl ": "https://www.jkunzyjx.com/？url= ",
-      "可搜索": 1,
-      "快速搜索": 1,
+      "可搜索": 0,
+      "快速搜索": 0,
       "可过滤": 0,
       "类别": [
         
