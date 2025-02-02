@@ -7,10 +7,10 @@
       "key": "公告1",
       "name": "关注公众号“AI婉约”以防接口失效",
       "type": 1,
-      "api": "",
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://www.jkunzyjx.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch":0,
       "filterable": 0,
       "categories": [
       
@@ -20,10 +20,10 @@
       "key": "公告2",
       "name": "请勿相信视频中的任何广告，建议使用Ok影视无广告观看",
       "type": 1,
-      "api": "",
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "https://www.jkunzyjx.com/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0,
       "categories": [
         
@@ -712,7 +712,6 @@
     "mgtv",
     "wasu"
   ],
- 
   "ijk": [
     {
       "group": "软解码",
