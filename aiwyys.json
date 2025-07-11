@@ -8,14 +8,11 @@
             "key": "公告1",
             "name": "关注公众号“AI婉约”以防接口失效",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_DouDouGuard",
+	    "indexs":1
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0,
-            "ext":{
-	         "分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
-			 "分类":"电影&电视剧&动漫&综艺",
-			 "分类值": "1&2&3&4"}
+            "changeable":0,
     },
     {
             "key": "公告2",
