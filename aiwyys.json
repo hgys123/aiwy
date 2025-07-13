@@ -69,59 +69,6 @@
 	  "quickSearch":1,
 	  "searchable":1,
 	  "filterable":1},
-	{ 
-	  "key": "o站影视",
-	  "name": "💎️O站", 
-	  "type":3,
-	  "api":"csp_XBPQ",
-	  "ext": {
-	          "简介":"分享者剧情介绍:+line-height: 20px;\">&&</div>",
-			  "分类url":"https://www.omofun.site/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-			  "分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
-	 {
-       "key": "csp_XYQHikerNm",
-       "name": "💎糯米",
-       "type": 3,
-       "api": "csp_XYQHiker",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/XBPQ/nmys.json","jar":""},
-	 {
-	   "key":"壹伴",
-	   "name":"💎壹伴",
-	   "type":3,
-	   "api":"csp_Xdai",
-	   "playerType":2,
-	   "ext":"caHR0cDovL2dldGFwcC50dnliYXBwLmNvbXxtaWNrMjQ1OG1pY2syNDU4fG1pY2syNDU4bWljazI0NTg=", 
-	   "jar":"http://tv.laohu.cool/laohujar.jar"},
-	 {
-       "key": "洽洽影视",
-	   "name": "💎洽洽",
-       "type": 3,
-       "api": "csp_AppGZ",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
-	 {
-	   "key": "csp_猎手",
-	   "name": "💎猎手",
-	   "type": 3,
-	   "searchable": 1,
-	   "changeable": 1,
-	   "quickSearch": 1,
-	   "api": "https://drive.almondcloud.cn/f/mnyRt1/py_%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
-       "playerType": 2,
-	   "filterable": 1},
-	 {
-       "key": "熊猫",
-       "name": "💎猫猫",
-       "type": 3,
-       "api": "csp_Xdai",
-       "playerType": 2,
-       "ext": "caHR0cDovL2dldGFwcC50dnliYXBwLmNvbXxtaWNrMjQ1OG1pY2syNDU4fG1pY2syNDU4bWljazI0NTg=",
-       "jar": "http://tv.laohu.cool/laohujar.jar"},
 	 {
 	   "key":"csp_fxzhl",
 	   "name":"💎河狸",
@@ -266,17 +213,7 @@
 			 "searchable":1,
 			 "quickSearch":1,
 			 "filterable":1,
-			 "categories":[]},	
-         {
-		     "key":"虎牙资源",
-			 "name":"💎虎牙",
-			 "type":1,
-			 "api":"https://www.huyaapi.com/api.php/provide/vod/",
-			 "playUrl":"",
-			 "searchable":1,
-			 "quickSearch":1,
-			 "categories": [
-               "内地剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","古装片","犯罪片","惊悚片","冒险片","悬疑片","其他剧","邵氏电影"]}
+			 "categories":[]}
   ], 
 "lives": [{
              "group": "自定义",
