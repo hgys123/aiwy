@@ -46,14 +46,6 @@
 	  "quickSearch":1,
 	  "filterable":1,
 	  "ext":"https://www.xn--rgv465a.top/box/json/可可影视.json"},
-	{
-	  "key":"爱奇艺",
-	  "name":"💎奇艺",
-	  "type":3,
-	  "api":"csp_IQIYI",
-	  "quickSearch":1,
-	  "searchable":1,
-	  "filterable":1},
 	 {
 	   "key":"csp_fxzhl",
 	   "name":"💎河狸",
