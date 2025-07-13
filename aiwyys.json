@@ -21,7 +21,7 @@
 	      "key":"非凡",
 		  "name":"💎️非凡",
 		  "type":1,
-		  "api":"http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
+		  "api":"http://api.ffzyapi.com/api.php/provide/vod/?ac=list",
 		  "searchable":1,
 		  "quickSearch":1,
 		  "filterable":1,
