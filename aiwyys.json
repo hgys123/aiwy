@@ -95,7 +95,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/分享YZ.json"},
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/分享YZ.json"},
 	{ 
 	  "key": "o站影视",
 	  "name": "💎️O站", 
@@ -114,7 +114,7 @@
       "changeable": 1,
       "playerType":1,
       "ext":"https://www.czzyvideo.com/",
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar"},
+      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar"},
     {
       "key": "fxzjpyy",
       "name": "💎金牌*",
@@ -123,7 +123,7 @@
       "searchable": 1,
       "changeable": 1,
       "playerType":1,
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar"},
+      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar"},
     {
 	   "key":"fx欢视",
 	   "name":"💎欢视",
@@ -133,7 +133,7 @@
 	   "searchable":1,
 	   "quickSearch":1,
 	   "changeable":1,
-	   "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar",
+	   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar",
 	   "ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
 	{
        "key": "fxzgy",
@@ -155,7 +155,7 @@
 	   "searchable":1,
 	   "quickSearch":1,
 	   "changeable":1, 
-	   "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar",
+	   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者c.jar",
 	   "ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 	 {
        "key": "csp_XYQHikerNm",
@@ -165,7 +165,7 @@
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
-       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/XBPQ/nmys.json","jar":""},
+       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/XBPQ/nmys.json","jar":""},
 	 {
 	   "key":"壹伴",
 	   "name":"💎壹伴",
@@ -182,7 +182,7 @@
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
-       "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
+       "jar":"https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"},
 	 {
 	   "key": "csp_猎手",
 	   "name": "💎猎手",
@@ -301,15 +301,6 @@
 		  "api":"csp_XBPQ",
 		  "ext":{"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 		  "分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}},
-       {
-	      "key":"极速",
-		  "name":"💎️极速",
-		  "type":1,
-		  "api":"https://jszyapi.com/api.php/provide/vod/at/json",
-		  "searchable":1,
-		  "quickSearch":1,
-		  "filterable":1,
-		  "categories":["内地剧","欧美剧","日剧","韩剧","台湾剧","香港剧","马泰剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","记录片","动画片","日本动漫","欧美动漫","中国动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"]},
 		{
             "key": "魔都资源",
             "name": "💎魔都",
