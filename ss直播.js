@@ -1,10 +1,10 @@
 var rule = {
     title:'ss直播',
-    host:'http://api.hclyz.com:81',
+    host:'http://api.hclyz.com:81/mf/yuncaidan.txt',
     homeUrl:'/mf/json.txt',
     url:'/mf/fyclass',
-    class_name:'映客',
-    class_url:'jsonyingke.txt',
+    class_name:'all',
+    class_url:'json.txt',
     headers:{
         'User-Agent':'MOBILE_UA',
     },
